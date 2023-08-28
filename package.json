@@ -67,6 +67,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test"
   },
+  "homepage": "https://voi-minter-os.vercel.app",
   "eslintConfig": {
     "extends": [
       "react-app",
