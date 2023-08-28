@@ -67,7 +67,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test"
   },
-  "homepage": "",
   "eslintConfig": {
     "extends": [
       "react-app",

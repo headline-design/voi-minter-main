@@ -1,5 +1,0 @@
-[[redirects]]
-from = "https://www.voiminter.daotools.org/*"
-to = "https://voiminter.daotools.org/:splat"
-status = 301
-force = true
