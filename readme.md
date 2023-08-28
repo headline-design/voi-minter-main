@@ -6,6 +6,15 @@ Voi Minter OS is a robust and versatile solution that has been open-sourced as a
 
 This project includes everything you need to get started with Voi Minter on Voi Network. From deploying application to connecting to the app, every step is accounted for to help both newcomers and veterans.
 
+### Vot Testnet Config
+
+Pipeline.EnableDeveloperAPI = true;
+Pipeline.indexer = "https://voitest-idx.algorpc.pro";
+Pipeline.algod = "https://voitest-api.algorpc.pro";
+Pipeline.token = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
+Pipeline.devGenHash = "7B/suQFSZR+kCnFj8wEndhzde8eNMM6m5BDv6SOd948="
+Pipeline.devGenId = "voi-test-v1"
+
 ### Getting Started
 
 Follow these step-by-step instructions to get started:
